@@ -353,19 +353,8 @@ h3 {
     
     font-size: .875em;
 }
-.site-footer__list:before, .site-footer__list:after {
-    content: " ";
-    display: table;
-} 
 
 .info:after {
-content: "."; 
-display: block; 
-height: 0; 
-clear: both; 
-visibility: hidden;
-}
-.site-footer:after {
 content: "."; 
 display: block; 
 height: 0; 
