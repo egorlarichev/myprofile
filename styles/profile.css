@@ -375,10 +375,10 @@ visibility: hidden;
     flex-direction: column;
 }
 .short-info {
-    flex-basis: 100%;
+    flex-basis: auto;
 }
 .full-info {
-    flex-basis: 100%;
+    flex-basis: auto;
 }
 .experience
 {
